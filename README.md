@@ -9,6 +9,7 @@
 ## 📋 Contents
 - [AI Aggregation Platforms](#ai-aggregation-platforms)
 - [AI Video Generation](#ai-video-generation)
+- [Vivify](https://vivify.video/realtime-face-swap) - Real-time AI face swap, try-on, and restyle on webcam video.
 - [AI Image Generation](#ai-image-generation)
 - [AI Writing & Content](#ai-writing--content)
 - [AI Coding Assistants](#ai-coding-assistants)
